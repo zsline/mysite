@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #505782;
+    color: #B5E4FF;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: #FCFF82;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.btn {
+    width: 100%;
+    padding: 18px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #505782;
+    background: #B5E4FF;
+    box-shadow: inset 0px -3px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(255, 255, 255, 0.25);
+    border-radius: 20px;
+}
